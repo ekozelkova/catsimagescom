@@ -1,0 +1,40 @@
+header {
+    background: #ffffff 0 0 repeat;
+    text-align: center;
+}
+
+.navbar-brand_ {
+    float: none;
+    display: block;
+    position: relative;
+    margin: 0;
+    text-align: center;
+    padding: 0;
+    margin: 0px auto 0px;
+}
+
+.navbar-brand_ img {
+    max-width: 80%;
+    width: 484px;
+    margin: 19px;
+}
+
+.menuheader {
+    background: #ffffff;
+}
+
+.tm_navbar .nav li a {
+    text-decoration: none;
+    text-transform: lowercase;
+    color: black;
+    font-family: 'Georgia', serif;
+    font-size: 25px;
+    line-height: 24px;
+    font-weight: normal;
+    background: transparent;
+    padding: 0;
+    border: none;
+    border-radius: 0;
+    text-shadow: none;
+}
+
