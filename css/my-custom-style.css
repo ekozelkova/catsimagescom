@@ -1,3 +1,12 @@
+body {
+
+
+}
+
+.container {
+    font-family: 'Open Sans', sans-serif;
+}
+
 header {
     background: #ffffff 0 0 repeat;
     text-align: center;
@@ -23,6 +32,14 @@ header {
     background: #ffffff;
 }
 
+.menuheader li a {
+    font-family: 'Titillium Web', sans-serif!important;
+}
+
+.menuheader a:hover {
+    color: #131cfb!important;
+}
+
 .tm_navbar .nav li a {
     text-decoration: none;
     text-transform: lowercase;
@@ -38,3 +55,43 @@ header {
     text-shadow: none;
 }
 
+
+.title2 {
+    letter-spacing: 0;
+    color: black;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 19px;
+    line-height: 26px;
+    font-weight: normal;
+    margin-bottom: 28px;
+}
+
+.title1 {
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    line-height: 38px;
+    font-weight: normal;
+    margin-bottom: 24px;
+}
+
+.row_1 {
+    text-align: center;
+    padding: 30px 0;
+    background: #ffffff 0 0 repeat;
+}
+
+.row_2 {
+    text-align: center;
+    padding: 22px 0 0;
+    background: #ffffff 0 0 repeat;
+}
+
+.row_3 {
+    padding: 43px 0 13px;
+    background: #ffffff 0 0 repeat;
+}
+
+.email {
+
+}
